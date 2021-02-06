@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ngfirebaseproy1": {
+      "hosting": {
+        "crudFirebase": [
+          "ngfirebaseproy1"
+        ]
+      }
+    }
+  }
+}
